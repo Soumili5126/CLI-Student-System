@@ -1,0 +1,72 @@
+[
+    {
+        "course_id": 1,
+        "name": "Data Structures",
+        "code": "CS201",
+        "credits": 4,
+        "dep_id": 1
+    },
+    {
+        "course_id": 2,
+        "name": "Database Management Systems",
+        "code": "CS301",
+        "credits": 4,
+        "dep_id": 1
+    },
+    {
+        "course_id": 3,
+        "name": "Operating Systems",
+        "code": "CS302",
+        "credits": 4,
+        "dep_id": 1
+    },
+    {
+        "course_id": 4,
+        "name": "Computer Networks",
+        "code": "CS303",
+        "credits": 3,
+        "dep_id": 1
+    },
+    {
+        "course_id": 5,
+        "name": "Software Engineering",
+        "code": "CS304",
+        "credits": 3,
+        "dep_id": 2
+    },
+    {
+        "course_id": 6,
+        "name": "Digital Electronics",
+        "code": "EC201",
+        "credits": 4,
+        "dep_id": 5
+    },
+    {
+        "course_id": 7,
+        "name": "Engineering Mathematics",
+        "code": "MA101",
+        "credits": 4,
+        "dep_id": 7
+    },
+    {
+        "course_id": 8,
+        "name": "Applied Physics",
+        "code": "PH101",
+        "credits": 3,
+        "dep_id": 8
+    },
+    {
+        "course_id": 9,
+        "name": "Engineering Chemistry",
+        "code": "CH101",
+        "credits": 3,
+        "dep_id": 9
+    },
+    {
+        "course_id": 10,
+        "name": "Principles of Management",
+        "code": "MG101",
+        "credits": 3,
+        "dep_id": 10
+    }
+]

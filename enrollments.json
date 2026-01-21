@@ -1,0 +1,72 @@
+[
+    {
+        "en_id": 1,
+        "user_id": 1,
+        "course_id": 1,
+        "grade": "A",
+        "date": "2024-08-01"
+    },
+    {
+        "en_id": 2,
+        "user_id": 2,
+        "course_id": 2,
+        "grade": "A+",
+        "date": "2024-08-02"
+    },
+    {
+        "en_id": 3,
+        "user_id": 3,
+        "course_id": 3,
+        "grade": "B+",
+        "date": "2024-08-03"
+    },
+    {
+        "en_id": 4,
+        "user_id": 4,
+        "course_id": 1,
+        "grade": "A",
+        "date": "2024-08-04"
+    },
+    {
+        "en_id": 5,
+        "user_id": 5,
+        "course_id": 5,
+        "grade": "B",
+        "date": "2024-08-05"
+    },
+    {
+        "en_id": 6,
+        "user_id": 6,
+        "course_id": 6,
+        "grade": "A-",
+        "date": "2024-08-06"
+    },
+    {
+        "en_id": 7,
+        "user_id": 7,
+        "course_id": 7,
+        "grade": "B+",
+        "date": "2024-08-07"
+    },
+    {
+        "en_id": 8,
+        "user_id": 8,
+        "course_id": 8,
+        "grade": "A",
+        "date": "2024-08-08"
+    },
+    {
+        "en_id": 9,
+        "user_id": 9,
+        "course_id": 9,
+        "grade": "B",
+        "date": "2024-08-09"
+    },
+    {
+        "en_id": 10,
+        "user_id": 10,
+        "course_id": 10,
+        "grade": "A+",
+        "date": "2024-08-10"
+    }
+]
