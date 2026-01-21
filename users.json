@@ -1,0 +1,113 @@
+[
+    {
+        "user_id": 1,
+        "fname": "Amit",
+        "lname": "Sharma",
+        "dob": "2002-05-14",
+        "gender": "Male",
+        "email": "amit.sharma@example.com",
+        "phone": "9876543210",
+        "address": "Delhi",
+        "role_id": 1
+    },
+    {
+        "user_id": 2,
+        "fname": "Priya",
+        "lname": "Verma",
+        "dob": "2001-11-22",
+        "gender": "Female",
+        "email": "priya.verma@example.com",
+        "phone": "9876543211",
+        "address": "Mumbai",
+        "role_id": 1
+    },
+    {
+        "user_id": 3,
+        "fname": "Rahul",
+        "lname": "Iyer",
+        "dob": "2002-02-10",
+        "gender": "Male",
+        "email": "rahul.iyer@example.com",
+        "phone": "9876543212",
+        "address": "Chennai",
+        "role_id": 1
+    },
+    {
+        "user_id": 4,
+        "fname": "Neha",
+        "lname": "Gupta",
+        "dob": "2003-07-19",
+        "gender": "Female",
+        "email": "neha.gupta@example.com",
+        "phone": "9876543213",
+        "address": "Kolkata",
+        "role_id": 1
+    },
+    {
+        "user_id": 5,
+        "fname": "Arjun",
+        "lname": "Patel",
+        "dob": "2001-09-05",
+        "gender": "Male",
+        "email": "arjun.patel@example.com",
+        "phone": "9876543214",
+        "address": "Ahmedabad",
+        "role_id": 1
+    },
+    {
+        "user_id": 6,
+        "fname": "Anil",
+        "lname": "Kumar",
+        "dob": "1980-03-12",
+        "gender": "Male",
+        "email": "anil.kumar@example.com",
+        "phone": "9876500001",
+        "address": "Delhi",
+        "role_id": 2
+    },
+    {
+        "user_id": 7,
+        "fname": "Sunita",
+        "lname": "Rao",
+        "dob": "1982-08-21",
+        "gender": "Female",
+        "email": "sunita.rao@example.com",
+        "phone": "9876500002",
+        "address": "Bangalore",
+        "role_id": 2
+    },
+    {
+        "user_id": 8,
+        "fname": "Ramesh",
+        "lname": "Iyer",
+        "dob": "1978-01-17",
+        "gender": "Male",
+        "email": "ramesh.iyer@example.com",
+        "phone": "9876500003",
+        "address": "Chennai",
+        "role_id": 2
+    },
+    {
+        "user_id": 9,
+        "fname": "Meena",
+        "lname": "Patel",
+        "dob": "1985-06-09",
+        "gender": "Female",
+        "email": "meena.patel@example.com",
+        "phone": "9876500004",
+        "address": "Ahmedabad",
+        "role_id": 2
+    },
+    {
+        "user_id": 10,
+        "fname": "Rajiv",
+        "lname": "Malhotra",
+        "dob": "1979-12-02",
+        "gender": "Male",
+        "email": "rajiv.malhotra@example.com",
+        "phone": "9876500010",
+        "address": "Mumbai",
+        "role_id": 2
+    }
+]
+
